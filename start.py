@@ -1,6 +1,6 @@
 # encoding: utf-8
 """
-Roby (an open source AI talking chatbot)
+Roby ---- an open source AI talking chatbot
 Copyright (C) 2014 Mark Young <mark.opensrc@gmail.com>
 
 This program is free software: you can redistribute it and/or modify

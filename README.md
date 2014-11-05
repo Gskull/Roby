@@ -1,9 +1,9 @@
 Roby-0.0
 ---------
 
-Roby is an open source AI talking chatbot, which supports both English and Chinese, can be easily linked with other programs for building an AI system. released under GPLv3, more details see LICENSE.
+Roby is an open source AI chatbot, with Local speech recognition and speech synthesis system. released under GPLv3, more details see LICENSE.
 
-Roby-0.0 is just a demo program fragment for testing some basic functions. It only works on Linux
+Roby-0.0 is just a demo program fragment for testing some basic functions. It only works on Linux. Supports both English and Chinese.
 
 How to use:
 

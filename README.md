@@ -46,4 +46,4 @@ http://www.eguidedog.net/ekho.php
 
 You can build your own test speech recognition models under the folder names "model".
 
-Any questions, email to mark@neuroc.net
+Any questions, email to ideamark@qq.com

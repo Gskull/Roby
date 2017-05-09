@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
 Roby ---- an open source AI talking chatbot
-Copyright (C) 2014 Mark Young <mark.opensrc@gmail.com>
+Copyright (C) 2014 Mark Young <ideamark@qq.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
